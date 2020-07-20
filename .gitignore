@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Numeral System Converter/task/build/
+/Numeral System Converter/task/out/
+/Numeral System Converter/task/out/production/classes/
+/Problems/Concat all strings without digits/out/
+/Problems/Concat all strings without digits/out/production/classes/
